@@ -1,5 +1,5 @@
-numpy==1.20.1
-streamlit==0.76.0
-pandas==1.2.3
+numpy
+streamlit
+pandas
 scikit-learn
-pickleshare==0.7.5
+pickleshare
